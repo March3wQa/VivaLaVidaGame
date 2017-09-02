@@ -2696,3 +2696,707 @@ Converted Global Transform (-135.682693,-63.960190,33.887001|0.000000,0.000000,0
 [2017.09.02-14.36.56:725][789]LogTemp: Env CWD: J:\Nowy folder\UE_4.16\Engine\Binaries\DotNET\IOS
 [2017.09.02-14.36.56:728][789]LogTemp: BranchPath = ABU-PC/J/Nowy folder/UE_4.16/Engine/Binaries --- GameBranchPath = ABU-PC/J/Nowy folder/UE_4.16/Engine/Binaries
 [2017.09.02-14.36.56:742][789]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\piotr.ABU-PC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.02-14.37.32:460][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap/TestMap" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.02-14.37.32:502][249]LogSavePackage: Save=25.96ms
+[2017.09.02-14.37.32:502][249]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/TestMap0CC244CE41B69471DE508F9FCE127AA2.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap.umap'
+[2017.09.02-14.37.32:506][249]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap.umap
+[2017.09.02-14.37.32:523][249]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap/TestMap_BuiltData" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap_BuiltData.uasset" SILENT=true
+[2017.09.02-14.37.32:548][249]LogSavePackage: Save=23.12ms
+[2017.09.02-14.37.32:548][249]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/TestMap_BuiltData3561B5D742367CDEA779938BF5618484.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap_BuiltData.uasset'
+[2017.09.02-14.37.32:551][249]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap_BuiltData.uasset
+[2017.09.02-14.37.36:382][362]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.09.02-14.37.36:471][362]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VivaLaVidaGame
+[2017.09.02-14.37.36:471][362]LogTemp: CWD: J:\Nowy folder\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.02-14.37.36:471][362]LogTemp: Initial Dir: J:\Nowy folder\UE_4.16
+[2017.09.02-14.37.36:471][362]LogTemp: Env CWD: J:\Nowy folder\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.02-14.37.36:476][362]LogTemp: BranchPath = ABU-PC/J/Nowy folder/UE_4.16/Engine/Binaries --- GameBranchPath = ABU-PC/J/Nowy folder/UE_4.16/Engine/Binaries
+[2017.09.02-14.37.36:492][364]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\piotr.ABU-PC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.02-14.40.25:174][743]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0011 seconds. Added 112 classes and 0 folders.
+[2017.09.02-14.40.25:970][743]LogRenderer: Reallocating scene render targets to support 1208x1020 NumSamples 1 (Frame:1).
+[2017.09.02-14.40.28:362][810]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.02-14.40.54:982][463]BlueprintLog: New page: Compile DefaultControl
+[2017.09.02-14.41.00:260][554]LogSlate: Took 0.000347 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2017.09.02-14.43.03:542][472]BlueprintLog: New page: Compile DefaultControl
+[2017.09.02-14.43.03:829][472]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Debug/DefaultControl" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DefaultControl.uasset" SILENT=true
+[2017.09.02-14.43.03:849][472]LogSavePackage: Save=17.26ms
+[2017.09.02-14.43.03:849][472]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/DefaultControlA9380BBE47950171BD67DAA83B080BAC.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DefaultControl.uasset'
+[2017.09.02-14.43.03:852][472]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DefaultControl.uasset
+[2017.09.02-14.43.13:490][928]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.02-14.43.13:502][928]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.02-14.43.13:502][928]PIE: New page: PIE session: TestMap (Sep 2, 2017, 6:43:13 PM)
+[2017.09.02-14.43.13:502][928]LogPlayLevel: Creating play world package: /Game/Maps/TestMap/UEDPIE_0_TestMap
+[2017.09.02-14.43.13:504][928]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001650s)
+[2017.09.02-14.43.13:504][928]LogAIModule: Creating AISystem for world TestMap
+[2017.09.02-14.43.13:504][928]LogPlayLevel: PIE: World Init took: (0.000586s)
+[2017.09.02-14.43.13:504][928]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap/TestMap.TestMap to /Game/Maps/TestMap/UEDPIE_0_TestMap.TestMap (0.002385s)
+[2017.09.02-14.43.13:555][928]LogInit: XAudio2 using 'Roccat Kave XTD 5.1 Digital (KAVE XTD Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.09.02-14.43.13:573][928]LogInit: FAudioDevice initialized.
+[2017.09.02-14.43.13:606][928]LogLoad: Game class is 'GameModeBase'
+[2017.09.02-14.43.13:608][928]LogWorld: Bringing World /Game/Maps/TestMap/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2017.09.02-16.43.13
+[2017.09.02-14.43.13:608][928]LogWorld: Bringing up level for play took: 0.001471
+[2017.09.02-14.43.13:609][928]PIE: Info Play in editor start time for /Game/Maps/TestMap/UEDPIE_0_TestMap 0.581
+[2017.09.02-14.43.35:438][652]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.02-14.44.09:744][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Debug/DebugControl" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset" SILENT=true
+[2017.09.02-14.44.09:762][935]LogSavePackage: Save=16.65ms
+[2017.09.02-14.44.09:762][935]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/DebugControl76151DA64E6C68FFAE452B8029489DD4.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset'
+[2017.09.02-14.44.09:765][935]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset
+[2017.09.02-14.44.09:766][935]LogMetaData: Removing '/Game/Blueprints/Debug/DebugControl.DebugControl:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Blueprints/Debug/DefaultControl.PackageMetaData'
+[2017.09.02-14.44.09:766][935]LogMetaData: Removing '/Game/Blueprints/Debug/DebugControl.SKEL_DebugControl_C' ref from Metadata '/Game/Blueprints/Debug/DefaultControl.PackageMetaData'
+[2017.09.02-14.44.09:766][935]LogMetaData: Removing '/Game/Blueprints/Debug/DebugControl.DebugControl_C' ref from Metadata '/Game/Blueprints/Debug/DefaultControl.PackageMetaData'
+[2017.09.02-14.44.09:766][935]LogMetaData: Removing '/Game/Blueprints/Debug/DebugControl.DebugControl:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Blueprints/Debug/DefaultControl.PackageMetaData'
+[2017.09.02-14.44.09:766][935]LogMetaData: Removing '/Game/Blueprints/Debug/DebugControl.DebugControl:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Blueprints/Debug/DefaultControl.PackageMetaData'
+[2017.09.02-14.44.09:804][935]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Debug/DebugControl" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset" SILENT=true
+[2017.09.02-14.44.09:842][935]LogSavePackage: Save=32.09ms
+[2017.09.02-14.44.09:842][935]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/DebugControlE5EA222B42A73A6F6C3E489A7A591E0C.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset'
+[2017.09.02-14.44.09:845][935]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset
+[2017.09.02-14.44.13:138][ 84]BlueprintLog: New page: Compile DebugMode
+[2017.09.02-14.44.13:345][ 84]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Debug/DebugMode" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugMode.uasset" SILENT=true
+[2017.09.02-14.44.13:354][ 84]LogSavePackage: Save=7.38ms
+[2017.09.02-14.44.13:354][ 84]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/DebugMode1ECD53B34E1ECA5ED02936905642FF8E.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugMode.uasset'
+[2017.09.02-14.44.13:358][ 84]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugMode.uasset
+[2017.09.02-14.44.20:531][470]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.02-14.44.23:348][568]BlueprintLog: New page: Compile DebugMode
+[2017.09.02-14.44.23:541][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Debug/DebugMode" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugMode.uasset" SILENT=true
+[2017.09.02-14.44.23:553][568]LogSavePackage: Save=7.08ms
+[2017.09.02-14.44.23:553][568]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/DebugMode7A35CE234DA16386FE488DB5F6F65319.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugMode.uasset'
+[2017.09.02-14.44.23:556][568]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugMode.uasset
+[2017.09.02-14.44.25:553][651]LogTemp: Repeting last play command: Selected Viewport
+[2017.09.02-14.44.25:567][651]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2017.09.02-14.44.25:568][651]PIE: New page: PIE session: TestMap (Sep 2, 2017, 6:44:25 PM)
+[2017.09.02-14.44.25:568][651]LogPlayLevel: Creating play world package: /Game/Maps/TestMap/UEDPIE_0_TestMap
+[2017.09.02-14.44.25:569][651]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001574s)
+[2017.09.02-14.44.25:570][651]LogAIModule: Creating AISystem for world TestMap
+[2017.09.02-14.44.25:570][651]LogPlayLevel: PIE: World Init took: (0.000597s)
+[2017.09.02-14.44.25:570][651]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/TestMap/TestMap.TestMap to /Game/Maps/TestMap/UEDPIE_0_TestMap.TestMap (0.002318s)
+[2017.09.02-14.44.25:624][651]LogInit: XAudio2 using 'Roccat Kave XTD 5.1 Digital (KAVE XTD Headset)' : 6 channels at 48 kHz using 16 bits per sample (channel mask 0x3f)
+[2017.09.02-14.44.25:641][651]LogInit: FAudioDevice initialized.
+[2017.09.02-14.44.25:673][651]LogLoad: Game class is 'GameModeBase'
+[2017.09.02-14.44.25:675][651]LogWorld: Bringing World /Game/Maps/TestMap/UEDPIE_0_TestMap.TestMap up for play (max tick rate 0) at 2017.09.02-16.44.25
+[2017.09.02-14.44.25:675][651]LogWorld: Bringing up level for play took: 0.001481
+[2017.09.02-14.44.25:677][651]PIE: Info Play in editor start time for /Game/Maps/TestMap/UEDPIE_0_TestMap 0.648
+[2017.09.02-14.46.46:168][533]LogSlate: Took 0.014523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2017.09.02-14.46.56:260][913]BlueprintLog: New page: Compile DebugControl
+[2017.09.02-14.46.56:542][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Debug/DebugControl" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset" SILENT=true
+[2017.09.02-14.46.56:564][913]LogSavePackage: Save=18.75ms
+[2017.09.02-14.46.56:564][913]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/DebugControlFB1DE0A546114CDFD7165D860A0C7B02.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset'
+[2017.09.02-14.46.56:567][913]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset
+[2017.09.02-14.47.41:735][ 39]BlueprintLog: New page: Compile DebugControl
+[2017.09.02-14.47.42:011][ 39]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Debug/DebugControl" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset" SILENT=true
+[2017.09.02-14.47.42:032][ 39]LogSavePackage: Save=18.21ms
+[2017.09.02-14.47.42:032][ 39]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/DebugControl378DFB9B4622DFD6EB97D9900F3D4FF6.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset'
+[2017.09.02-14.47.42:036][ 39]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/DebugControl.uasset
+[2017.09.02-14.48.21:207][454]LogSlate: Took 0.069678 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2017.09.02-14.49.43:392][273]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap/TestMap' took 0.016
+[2017.09.02-14.49.43:394][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/Characters/Mannequin/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.09.02-14.49.43:394][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Characters/Mannequin/SK_Mannequin_Skeleton]
+[2017.09.02-14.49.43:400][273]LogSavePackage: Save=3.67ms
+[2017.09.02-14.49.43:400][273]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/SK_Mannequin_Skeleton_Auto3BD29A8734BF6E79EF25162B96091ABAC.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Content/Characters/Mannequin/SK_Mannequin_Skeleton_Auto3.uasset'
+[2017.09.02-14.49.43:401][273]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Content/Characters/Mannequin/SK_Mannequin_Skeleton_Auto3.uasset
+[2017.09.02-14.49.43:403][273]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Debug/DebugControl] ([1] browsable assets)...
+[2017.09.02-14.49.43:403][273]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Debug/DebugControl]
+[2017.09.02-14.49.43:426][273]LogSavePackage: Save=18.29ms
+[2017.09.02-14.49.43:426][273]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/DebugControl_Auto33369CC014EA5A671CE68E5AECC336DE5.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Blueprints/Debug/DebugControl_Auto3.uasset'
+[2017.09.02-14.49.43:428][273]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Blueprints/Debug/DebugControl_Auto3.uasset
+[2017.09.02-14.49.43:428][273]LogFileHelpers: Auto-saving content packages took 0.034
+[2017.09.02-14.52.54:909][607]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Debug/Boolean" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/Boolean.uasset" SILENT=true
+[2017.09.02-14.52.54:913][607]LogSavePackage: Save=2.19ms
+[2017.09.02-14.52.54:913][607]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Boolean845EC0E0433A05FFA9B1F3B63BEFE334.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/Boolean.uasset'
+[2017.09.02-14.52.54:917][607]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Blueprints/Debug/Boolean.uasset
+[2017.09.02-14.54.35:518][  7]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_DebugControl_C_1' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DefaultSceneRoot_GEN_VARIABLE' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'SimpleConstructionScript_0' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_DebugControl_C_0' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'InputActionDelegateBinding_2' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'UberGraphFrame' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'UserConstructionScript' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'InpActEvt_Action_K2Node_InputActionEvent_8' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'InpActEvt_Jump_K2Node_InputActionEvent_7' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'InpActEvt_Sprint_K2Node_InputActionEvent_6' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'ExecuteUbergraph_DebugControl' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'InpActEvt_Action_K2Node_InputActionEvent_8' or package '/Game/Blueprints/Debug/DebugControl'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'InpActEvt_Jump_K2Node_InputActionEvent_7' or package '/Game/Blueprints/Debug/DebugControl'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'InpActEvt_Sprint_K2Node_InputActionEvent_6' or package '/Game/Blueprints/Debug/DebugControl'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Action' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Jump' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:502][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Sprint' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:503][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_DebugControl_C_73' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:503][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugControl_C_71' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:503][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugControl_C_69' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:503][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugControl_C_67' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:503][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugControl_C_65' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugControl_C_55' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DebugMode_C_0' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'Default__DEADCLASS_DebugMode_C_2' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'UserConstructionScript' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DefaultSceneRoot' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugControl_C_63' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'ExecuteUbergraph_DebugControl' or package '/Game/Blueprints/Debug/DebugControl'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugMode_C_80' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_DebugMode_C_79' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'GameStateBase_0' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugControl_C_78' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_DebugMode_C_3' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:518][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_DebugControl_C_77' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:519][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DefaultSceneRoot_GEN_VARIABLE' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:519][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'SimpleConstructionScript_0' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:519][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'REINST_SKEL_DebugControl_C_53' or package '/Engine/Transient'.
+[2017.09.02-14.54.42:519][157]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'DEADCLASS_DebugMode_C_2' or package '/Engine/Transient'.
+[2017.09.02-14.54.48:540][500]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2017.09.02-14.57.13:268][133]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2017.09.02-14.57.13:359][135]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VivaLaVidaGame
+[2017.09.02-14.57.13:359][135]LogTemp: CWD: J:\Nowy folder\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.02-14.57.13:359][135]LogTemp: Initial Dir: J:\Nowy folder\UE_4.16
+[2017.09.02-14.57.13:359][135]LogTemp: Env CWD: J:\Nowy folder\UE_4.16\Engine\Binaries\DotNET\IOS
+[2017.09.02-14.57.13:375][136]LogTemp: BranchPath = ABU-PC/J/Nowy folder/UE_4.16/Engine/Binaries --- GameBranchPath = ABU-PC/J/Nowy folder/UE_4.16/Engine/Binaries
+[2017.09.02-14.57.13:380][136]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\piotr.ABU-PC\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2017.09.02-15.03.13:745][983]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2017.09.02-15.03.13:783][983]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_10) - call TermArticulated first.
+[2017.09.02-15.03.14:114][983]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.05.48:380][562]Cmd: TRANSACTION UNDO
+[2017.09.02-15.05.48:380][562]LogEditorTransaction: Undo Translate Bone
+[2017.09.02-15.05.48:500][562]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_20:PersistentLevel.Actor_6.DebugSkelMeshComponent_10) Already registered. Aborting.
+[2017.09.02-15.06.10:941][115]LogSlate:Warning: Prevented a slow task dialog from being summoned while a context menu was open
+[2017.09.02-15.06.35:315][603]LogSavePackage: Save=10.34ms
+[2017.09.02-15.06.35:315][603]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Movement973A745D4CA0023334EAA59DB525809C.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/Movement.uasset'
+[2017.09.02-15.06.35:319][603]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/Movement.uasset
+[2017.09.02-15.07.13:052][ 22]LogContentBrowser:Verbose: The majority of assets in the view are of type: Skeleton
+[2017.09.02-15.07.52:621][641]LogContentBrowser:Verbose: The majority of assets in the view are of type: Skeleton
+[2017.09.02-15.07.57:045][641]LogContentBrowser:Verbose: The majority of assets in the view are of type: Skeleton
+[2017.09.02-15.08.04:578][736]LogContentBrowser:Verbose: The majority of assets in the view are of type: Skeleton
+[2017.09.02-15.10.20:181][437]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_12' or package '/Engine/Transient'.
+[2017.09.02-15.10.30:902][675]LogRenderer: Reallocating scene render targets to support 1528x1020 NumSamples 1 (Frame:1).
+[2017.09.02-15.10.46:249][ 33]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_30:PersistentLevel.Actor_7.DebugSkelMeshComponent_18) Already registered. Aborting.
+[2017.09.02-15.10.46:279][ 33]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_30:PersistentLevel.Actor_7.DebugSkelMeshComponent_18) - call TermArticulated first.
+[2017.09.02-15.10.46:577][ 33]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.10.59:813][325]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_20' or package '/Engine/Transient'.
+[2017.09.02-15.11.01:427][367]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_8.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2017.09.02-15.11.01:664][367]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_33:PersistentLevel.Actor_8.DebugSkelMeshComponent_20) - call TermArticulated first.
+[2017.09.02-15.12.56:664][937]LogEditorTransaction: Undo Delete current selection
+[2017.09.02-15.12.56:672][937]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_8.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2017.09.02-15.12.57:137][951]LogEditorTransaction: Undo Add Node
+[2017.09.02-15.12.57:144][951]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_33:PersistentLevel.Actor_8.DebugSkelMeshComponent_20) Already registered. Aborting.
+[2017.09.02-15.13.07:178][351]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.14.16:764][352]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap/TestMap' took 0.016
+[2017.09.02-15.14.16:766][352]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Content/Characters/Mannequin/SK_Mannequin_Skeleton] ([1] browsable assets)...
+[2017.09.02-15.14.16:766][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Characters/Mannequin/SK_Mannequin_Skeleton]
+[2017.09.02-15.14.16:771][352]LogSavePackage: Save=3.45ms
+[2017.09.02-15.14.16:771][352]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/SK_Mannequin_Skeleton_Auto4D0C4F6D542620ACFC84A348B36351CD5.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Content/Characters/Mannequin/SK_Mannequin_Skeleton_Auto4.uasset'
+[2017.09.02-15.14.16:772][352]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Content/Characters/Mannequin/SK_Mannequin_Skeleton_Auto4.uasset
+[2017.09.02-15.14.16:773][352]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint] ([1] browsable assets)...
+[2017.09.02-15.14.16:823][352]OBJ SavePackage:     Rendered thumbnail for [AnimBlueprint /Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint]
+[2017.09.02-15.14.16:823][352]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint]
+[2017.09.02-15.14.16:867][352]LogSavePackage: Save=42.04ms
+[2017.09.02-15.14.16:867][352]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprint_Auto4FEB6708846421475C9A5AFA5AAB7E0CC.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint_Auto4.uasset'
+[2017.09.02-15.14.16:868][352]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint_Auto4.uasset
+[2017.09.02-15.14.16:868][352]LogFileHelpers: Auto-saving content packages took 0.104
+[2017.09.02-15.19.59:551][684]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.19.59:573][684]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.19.59:694][684]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.19.59:694][684]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.19.59:694][684]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5544.55] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 143 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.12:897][379]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.12:918][379]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.13:023][379]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.20.13:023][379]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.13:023][379]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5557.88] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 126 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.13:613][398]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.13:633][398]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.13:733][398]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.20.13:733][398]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.13:733][398]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5558.59] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 120 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.13:762][399]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.13:783][399]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.13:888][399]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.20.13:888][399]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.13:888][399]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5558.74] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 125 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.13:916][400]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.13:937][400]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.14:036][400]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.20.14:036][400]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.14:036][400]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5558.89] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 120 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.14:072][402]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.14:093][402]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.14:197][402]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.20.14:197][402]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.14:197][402]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5559.05] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 124 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.14:357][408]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.14:377][408]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.14:481][408]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.20.14:481][408]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.14:481][408]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5559.34] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 123 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.14:510][409]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.14:529][409]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.14:633][409]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.20.14:633][409]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop_2 to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.14:633][409]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5559.49] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 123 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.52:217][983]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.52:237][983]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_End to Movement  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.52:346][983]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.20.52:346][983]BlueprintEditorCompileResults:Warning: Warning  Jump_End to Movement  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.20.52:347][983]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5597.20] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 129 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.20.59:077][303]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.20.59:359][303]LogSavePackage: Save=101.90ms
+[2017.09.02-15.20.59:359][303]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprintFB2164E44D10B37E823AEA987FB9893B.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.20.59:363][303]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.20.59:368][303]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.22.28:259][982]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.22.28:275][982]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.22.28:275][982]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop to Conduit  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.22.28:275][982]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Conduit to Jump_Loop  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.22.28:398][982]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.22.28:398][982]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.22.28:398][982]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop to Conduit  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.22.28:398][982]BlueprintEditorCompileResults:Warning: Warning  Conduit to Jump_Loop  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.22.28:399][982]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5693.25] Compile of MovementBlueprint successful, but with 3 Warning(s) [in 139 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.22.49:961][837]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.22.49:974][837]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning  Jump_Loop to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.22.50:081][837]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.22.50:081][837]BlueprintEditorCompileResults:Warning: Warning  Jump_Loop to Jump_End  will never be taken, please connect something to  Can Enter Transition
+[2017.09.02-15.22.50:081][837]LogBlueprint:Warning: [Compiler MovementBlueprint] Warning [5714.94] Compile of MovementBlueprint successful, but with 1 Warning(s) [in 119 ms] (/Game/Content/Characters/Mannequin/Blueprints/MovementBlueprint.MovementBlueprint)
+[2017.09.02-15.23.13:982][661]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.23.14:227][661]LogSavePackage: Save=71.50ms
+[2017.09.02-15.23.14:227][661]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprint0316E9874FBD5A04E48F26A435B2AEC2.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.23.14:231][661]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.23.14:236][661]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.24.50:785][ 97]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.24.51:030][ 97]LogSavePackage: Save=72.91ms
+[2017.09.02-15.24.51:030][ 97]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprintB047D6EA4DF1F9A999B9AE80BB26A667.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.24.51:034][ 97]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.24.51:037][ 97]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.25.23:239][381]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.25.23:496][381]LogSavePackage: Save=73.62ms
+[2017.09.02-15.25.23:496][381]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprintE1D15C934E2C383750D596A8A479DA51.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.25.23:500][381]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.25.23:503][381]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.26.10:114][777]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.26.10:370][777]LogSavePackage: Save=82.12ms
+[2017.09.02-15.26.10:370][777]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprint3BF302024C0B39C9EAD47AA40A390E77.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.26.10:374][777]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.26.10:379][777]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.26.16:495][ 13]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.26.16:622][ 13]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.26.25:180][333]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.26.25:310][333]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.27.35:828][302]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.27.36:081][302]LogSavePackage: Save=77.93ms
+[2017.09.02-15.27.36:081][302]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprint5BB1DD134C18CAABD2C94B8888AD4F75.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.27.36:084][302]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.27.36:088][302]BlueprintEditorCompileResults: Info  Result  was visible but ignored
+[2017.09.02-15.28.16:127][789]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.28.16:389][789]LogSavePackage: Save=80.39ms
+[2017.09.02-15.28.16:389][789]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprintE1692F2D425C579E8B47259750427F12.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.28.16:392][789]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.28.27:415][291]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.28.27:676][291]LogSavePackage: Save=79.17ms
+[2017.09.02-15.28.27:676][291]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprint5D13590B435049F7B9BEA7BDD52BEBA4.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.28.27:680][291]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.28.38:245][723]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.28.38:509][723]LogSavePackage: Save=86.82ms
+[2017.09.02-15.28.38:510][723]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprint7E706F984D0C9C3C3A29DA8F946F9B4C.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.28.38:513][723]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.28.47:472][ 99]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.28.47:727][ 99]LogSavePackage: Save=80.85ms
+[2017.09.02-15.28.47:727][ 99]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprint221950B64F5EDEFCC3FBF8B4D2D8C88B.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.28.47:731][ 99]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.29.05:223][868]BlueprintLog: New page: Compile MovementBlueprint
+[2017.09.02-15.29.05:490][868]LogSavePackage: Save=84.12ms
+[2017.09.02-15.29.05:490][868]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementBlueprint6681966049FADB5B1802A3A227F70512.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset'
+[2017.09.02-15.29.05:493][868]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/MovementBlueprint.uasset
+[2017.09.02-15.29.29:919][936]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_35:PersistentLevel.Actor_9.DebugSkelMeshComponent_22) Already registered. Aborting.
+[2017.09.02-15.29.29:938][936]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_35:PersistentLevel.Actor_9.DebugSkelMeshComponent_22) - call TermArticulated first.
+[2017.09.02-15.29.30:358][936]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.30.21:239][297]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/TestMap/TestMap' took 0.013
+[2017.09.02-15.30.21:243][297]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Content/Characters/Mannequin/Animations/ThirdPersonWalk_2] ([1] browsable assets)...
+[2017.09.02-15.30.21:307][297]OBJ SavePackage:     Rendered thumbnail for [AnimSequence /Game/Content/Characters/Mannequin/Animations/ThirdPersonWalk_2.ThirdPersonWalk_2]
+[2017.09.02-15.30.21:307][297]OBJ SavePackage: Finished generating thumbnails for package [/Game/Content/Characters/Mannequin/Animations/ThirdPersonWalk_2]
+[2017.09.02-15.30.21:321][297]LogSavePackage: Save=11.36ms
+[2017.09.02-15.30.21:321][297]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonWalk_2_Auto5AB6217B14235E4DF0FAC268F6B697760.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Content/Characters/Mannequin/Animations/ThirdPersonWalk_2_Auto5.uasset'
+[2017.09.02-15.30.21:324][297]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Autosaves/Game/Content/Characters/Mannequin/Animations/ThirdPersonWalk_2_Auto5.uasset
+[2017.09.02-15.30.21:324][297]LogFileHelpers: Auto-saving content packages took 0.082
+[2017.09.02-15.31.09:829][263]LogSavePackage: Save=11.25ms
+[2017.09.02-15.31.09:829][263]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonWalk_2F80BA6AE43257F63F0414096A893049D.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonWalk_2.uasset'
+[2017.09.02-15.31.09:833][263]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonWalk_2.uasset
+[2017.09.02-15.31.22:470][845]LogSavePackage: Save=12.34ms
+[2017.09.02-15.31.22:470][845]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonWalk_ReversedADD6C92A4EF39B73A7FD5C87D3613BD5.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonWalk_Reversed.uasset'
+[2017.09.02-15.31.22:473][845]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonWalk_Reversed.uasset
+[2017.09.02-15.31.42:416][629]LogSavePackage: Save=11.03ms
+[2017.09.02-15.31.42:416][629]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonRun_Reversed04A90B6649839924E0BE87AB84361FC6.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonRun_Reversed.uasset'
+[2017.09.02-15.31.42:419][629]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonRun_Reversed.uasset
+[2017.09.02-15.31.43:863][677]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_38:PersistentLevel.Actor_10.DebugSkelMeshComponent_25) Already registered. Aborting.
+[2017.09.02-15.31.43:897][677]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_38:PersistentLevel.Actor_10.DebugSkelMeshComponent_25) - call TermArticulated first.
+[2017.09.02-15.31.44:204][677]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.32.32:918][334]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_27' or package '/Engine/Transient'.
+[2017.09.02-15.32.34:445][385]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_41:PersistentLevel.Actor_11.DebugSkelMeshComponent_28) Already registered. Aborting.
+[2017.09.02-15.32.34:482][385]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_41:PersistentLevel.Actor_11.DebugSkelMeshComponent_28) - call TermArticulated first.
+[2017.09.02-15.32.34:834][385]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.32.41:775][593]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_43:PersistentLevel.Actor_12.DebugSkelMeshComponent_30) Already registered. Aborting.
+[2017.09.02-15.32.41:811][593]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_43:PersistentLevel.Actor_12.DebugSkelMeshComponent_30) - call TermArticulated first.
+[2017.09.02-15.32.42:128][593]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.33.09:157][357]LogSavePackage: Save=4.51ms
+[2017.09.02-15.33.09:157][357]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonWalk_ReversedDAAF89B64CA66A98858DB391750E4B59.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonWalk_Reversed.uasset'
+[2017.09.02-15.33.09:159][357]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonWalk_Reversed.uasset
+[2017.09.02-15.33.12:333][449]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_45:PersistentLevel.Actor_13.DebugSkelMeshComponent_32) Already registered. Aborting.
+[2017.09.02-15.33.12:367][449]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_45:PersistentLevel.Actor_13.DebugSkelMeshComponent_32) - call TermArticulated first.
+[2017.09.02-15.33.12:705][449]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.33.37:124][304]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_47:PersistentLevel.Actor_14.DebugSkelMeshComponent_34) Already registered. Aborting.
+[2017.09.02-15.33.37:162][304]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_47:PersistentLevel.Actor_14.DebugSkelMeshComponent_34) - call TermArticulated first.
+[2017.09.02-15.33.37:462][304]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.33.52:868][667]LogObjectTools:Warning: ForceReplaceReferences replaced references for a transient object 'AnimPreviewInstance_36' or package '/Engine/Transient'.
+[2017.09.02-15.33.53:605][684]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_49:PersistentLevel.Actor_15.DebugSkelMeshComponent_36) Already registered. Aborting.
+[2017.09.02-15.33.53:643][684]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_49:PersistentLevel.Actor_15.DebugSkelMeshComponent_36) - call TermArticulated first.
+[2017.09.02-15.33.54:004][684]LogContentBrowser:Verbose: The majority of assets in the view are of type: AnimSequence
+[2017.09.02-15.34.48:014][720]LogSavePackage: Save=10.26ms
+[2017.09.02-15.34.48:014][720]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MovementA77D76B34A0DF89BC82B8FA71FBE5418.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/Movement.uasset'
+[2017.09.02-15.34.48:018][720]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Blueprints/Movement.uasset
+[2017.09.02-15.34.50:702][813]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_52:PersistentLevel.Actor_16.DebugSkelMeshComponent_38) Already registered. Aborting.
+[2017.09.02-15.34.50:935][813]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_52:PersistentLevel.Actor_16.DebugSkelMeshComponent_38) - call TermArticulated first.
+[2017.09.02-15.37.03:559][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap/TestMap" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2017.09.02-15.37.03:611][365]LogSavePackage: Save=25.75ms
+[2017.09.02-15.37.03:611][365]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/TestMapF56BB62040B2463926AE4A98D8D73B0E.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap.umap'
+[2017.09.02-15.37.03:613][365]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap.umap
+[2017.09.02-15.37.03:632][365]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Maps/TestMap/TestMap_BuiltData" FILE="../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap_BuiltData.uasset" SILENT=true
+[2017.09.02-15.37.03:667][365]LogSavePackage: Save=28.83ms
+[2017.09.02-15.37.03:667][365]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/TestMap_BuiltData777692F843695A30181FD2A468BD1265.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap_BuiltData.uasset'
+[2017.09.02-15.37.03:669][365]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Maps/TestMap/TestMap_BuiltData.uasset
+[2017.09.02-15.37.07:991][454]LogSavePackage: Save=11.96ms
+[2017.09.02-15.37.07:991][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MontageExample_End_1D3A542164EAB86E03C8E048D370CDD77.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_End_1.uasset'
+[2017.09.02-15.37.07:995][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_End_1.uasset
+[2017.09.02-15.37.08:054][454]LogSavePackage: Save=11.48ms
+[2017.09.02-15.37.08:054][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MontageExample_End_2B89366D5423E2D97AE99D4A996A8FD01.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_End_2.uasset'
+[2017.09.02-15.37.08:058][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_End_2.uasset
+[2017.09.02-15.37.08:117][454]LogSavePackage: Save=10.96ms
+[2017.09.02-15.37.08:117][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MontageExample_Punch_1828BD4684FEB8C35BC71198A30E1D4B5.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_Punch_1.uasset'
+[2017.09.02-15.37.08:121][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_Punch_1.uasset
+[2017.09.02-15.37.08:180][454]LogSavePackage: Save=11.04ms
+[2017.09.02-15.37.08:180][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MontageExample_Punch_27D48B2D74DE6AD4BE9BA52ABC6BF4FCE.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_Punch_2.uasset'
+[2017.09.02-15.37.08:184][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_Punch_2.uasset
+[2017.09.02-15.37.08:243][454]LogSavePackage: Save=11.06ms
+[2017.09.02-15.37.08:243][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/MontageExample_StartA3239C1F488EBF43B5016FBA18BE05B2.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_Start.uasset'
+[2017.09.02-15.37.08:247][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/MontageExample_Start.uasset
+[2017.09.02-15.37.08:307][454]LogSavePackage: Save=11.26ms
+[2017.09.02-15.37.08:307][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonJump_EndAD4D50D449CB3C9422840D84F43C1B8B.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonJump_End.uasset'
+[2017.09.02-15.37.08:310][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonJump_End.uasset
+[2017.09.02-15.37.08:369][454]LogSavePackage: Save=11.36ms
+[2017.09.02-15.37.08:369][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonJump_LoopBAC30FBB40399B6973B62A81E28D54A0.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonJump_Loop.uasset'
+[2017.09.02-15.37.08:372][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonJump_Loop.uasset
+[2017.09.02-15.37.08:432][454]LogSavePackage: Save=11.22ms
+[2017.09.02-15.37.08:432][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonJump_Start9911FCE74268925C2AEBD3BAA777C79E.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonJump_Start.uasset'
+[2017.09.02-15.37.08:435][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonJump_Start.uasset
+[2017.09.02-15.37.08:496][454]LogSavePackage: Save=11.55ms
+[2017.09.02-15.37.08:496][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonRun7FAF48FF44FC0BF3C1A9E4AA2472D2A0.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonRun.uasset'
+[2017.09.02-15.37.08:499][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonRun.uasset
+[2017.09.02-15.37.08:558][454]LogSavePackage: Save=11.46ms
+[2017.09.02-15.37.08:558][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/ThirdPersonWalk001D2B6C48BFF4652DBBE1A1AAF124BE.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonWalk.uasset'
+[2017.09.02-15.37.08:562][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Animations/ThirdPersonWalk.uasset
+[2017.09.02-15.37.08:639][454]LogSavePackage: Save=10.43ms
+[2017.09.02-15.37.08:639][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/Fbx_Default_Material_1D1699F514FA8D69708DEF4B94EFA712C.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Fbx_Default_Material_1.uasset'
+[2017.09.02-15.37.08:642][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/Fbx_Default_Material_1.uasset
+[2017.09.02-15.37.08:723][454]LogSavePackage: Save=10.77ms
+[2017.09.02-15.37.08:723][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/M_UE4Man_BodyD7445D3C43586E603F7A75894BC16371.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/M_UE4Man_Body.uasset'
+[2017.09.02-15.37.08:726][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/M_UE4Man_Body.uasset
+[2017.09.02-15.37.08:846][454]LogSavePackage: Save=72.10ms
+[2017.09.02-15.37.08:846][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/SK_MannequinE8948562493CC1239B75C697381B5929.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/SK_Mannequin.uasset'
+[2017.09.02-15.37.08:865][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/SK_Mannequin.uasset
+[2017.09.02-15.37.08:879][454]LogSavePackage: Save=10.83ms
+[2017.09.02-15.37.08:879][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/SK_Mannequin_PhysicsAssetF6ACF269420407BE02FBCE8658A1ACCC.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/SK_Mannequin_PhysicsAsset.uasset'
+[2017.09.02-15.37.08:882][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/SK_Mannequin_PhysicsAsset.uasset
+[2017.09.02-15.37.08:921][454]LogSavePackage: Save=2.93ms
+[2017.09.02-15.37.08:921][454]LogSavePackage: Moving '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Saved/SK_Mannequin_Skeleton06D14651426A8915939270B169CC0EEE.tmp' to '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/SK_Mannequin_Skeleton.uasset'
+[2017.09.02-15.37.08:924][454]LogSavePackage:Display: Finished SavePackage ../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/Content/Characters/Mannequin/SK_Mannequin_Skeleton.uasset
+[2017.09.02-15.37.09:279][455]Cmd: QUIT_EDITOR
+[2017.09.02-15.37.09:529][455]LogWindowsTextInputMethodSystem:Display: IME system now deactivated.
+[2017.09.02-15.37.09:559][455]LogExit: Preparing to exit.
+[2017.09.02-15.37.10:345][455]LogDirectoryWatcher: A directory notification for 'J:/Unreal Engine 4/Games/VivaLaVidaGame/Content/' was aborted.
+[2017.09.02-15.37.10:429][455]LogExit: Editor shut down
+[2017.09.02-15.37.10:460][455]LogExit: Transaction tracking system shut down
+[2017.09.02-15.37.10:759][455]LogObj: Freed 0b from 0 cluster array pools.
+[2017.09.02-15.37.10:759][455]LogExit: Object subsystem successfully closed.
+[2017.09.02-15.37.10:787][455]LogD3D11RHI: Shutdown
+[2017.09.02-15.37.10:787][455]LogD3D11RHI: CleanupD3DDevice
+[2017.09.02-15.37.10:939][455]LogD3D11RHI: ~FD3D11DynamicRHI
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (546)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module BlueprintGraph (544)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module BlueprintProfiler (542)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module AnimationEditor (540)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module ClothingSystemEditorInterface (538)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module SkeletonEditor (536)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (534)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (532)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (530)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (528)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module CrashTracker (526)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module SceneOutliner (524)
+[2017.09.02-15.37.10:954][455]LogModuleManager: Shutting down and abandoning module AddContentDialog (522)
+[2017.09.02-15.37.10:954][455]LogDirectoryWatcher: A directory notification for 'J:/Nowy folder/UE_4.16/FeaturePacks/' was aborted.
+[2017.09.02-15.37.10:959][455]LogModuleManager: Shutting down and abandoning module WidgetCarousel (521)
+[2017.09.02-15.37.10:959][455]LogModuleManager: Shutting down and abandoning module EditorWidgets (518)
+[2017.09.02-15.37.10:959][455]LogModuleManager: Shutting down and abandoning module CollectionManager (516)
+[2017.09.02-15.37.10:959][455]LogDirectoryWatcher: A directory notification for 'J:/Unreal Engine 4/Games/VivaLaVidaGame/Content/Collections/' was aborted.
+[2017.09.02-15.37.10:960][455]LogDirectoryWatcher: A directory notification for 'J:/Unreal Engine 4/Games/VivaLaVidaGame/Content/Developers/piotr/Collections/' was aborted.
+[2017.09.02-15.37.10:960][455]LogDirectoryWatcher: A directory notification for 'J:/Unreal Engine 4/Games/VivaLaVidaGame/Saved/Collections/' was aborted.
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module StatsViewer (514)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module FoliageEdit (512)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module LandscapeEditor (510)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module MeshPaintMode (508)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (506)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module ActorPickerMode (504)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module GeometryMode (502)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module TextureAlignMode (500)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module BspMode (498)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module HardwareSurvey (496)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (494)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module AutomationWorker (492)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (490)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (488)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module PlacementMode (487)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (484)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (482)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (480)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (478)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (476)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module Media (475)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (472)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module CharacterAI (470)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module AudioCapture (468)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module SequenceRecorder (467)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module SmartSnapping (464)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module SessionServices (462)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module ViewportSnapping (460)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module ViewportInteraction (458)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module ClothPainter (456)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module LogVisualizer (454)
+[2017.09.02-15.37.10:960][455]LogModuleManager: Shutting down and abandoning module IntroTutorials (452)
+[2017.09.02-15.37.10:961][455]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (451)
+[2017.09.02-15.37.10:961][455]LogModuleManager: Shutting down and abandoning module EditorLiveStreaming (448)
+[2017.09.02-15.37.10:961][455]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (446)
+[2017.09.02-15.37.10:961][455]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (444)
+[2017.09.02-15.37.10:961][455]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (442)
+[2017.09.02-15.37.10:961][455]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (441)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (438)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (436)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module InputBindingEditor (434)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module MergeActors (432)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module SizeMap (430)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module TreeMap (428)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module ReferenceViewer (426)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (424)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module LocalizationService (423)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module HardwareTargeting (420)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (418)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module UndoHistory (416)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module UserFeedback (414)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module XmlParser (412)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module Blutility (410)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (408)
+[2017.09.02-15.37.11:038][455]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (407)
+[2017.09.02-15.37.11:039][455]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (404)
+[2017.09.02-15.37.11:039][455]LogModuleManager: Shutting down and abandoning module SettingsEditor (402)
+[2017.09.02-15.37.11:039][455]LogModuleManager: Shutting down and abandoning module ProjectLauncher (400)
+[2017.09.02-15.37.11:039][455]LogModuleManager: Shutting down and abandoning module SessionFrontend (398)
+[2017.09.02-15.37.11:039][455]LogModuleManager: Shutting down and abandoning module ProfilerClient (396)
+[2017.09.02-15.37.11:039][455]LogModuleManager: Shutting down and abandoning module DeviceManager (394)
+[2017.09.02-15.37.11:039][455]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (393)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module AutomationController (390)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module AutomationWindow (388)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module Layers (386)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (384)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module DetailCustomizations (382)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module PackagesDialog (380)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module Persona (378)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (377)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module AnimGraph (375)
+[2017.09.02-15.37.11:093][455]LogModuleManager: Shutting down and abandoning module Kismet (372)
+[2017.09.02-15.37.11:111][455]LogModuleManager: Shutting down and abandoning module ClassViewer (370)
+[2017.09.02-15.37.11:112][455]LogModuleManager: Shutting down and abandoning module Toolbox (368)
+[2017.09.02-15.37.11:112][455]LogModuleManager: Shutting down and abandoning module ModuleUI (366)
+[2017.09.02-15.37.11:112][455]LogModuleManager: Shutting down and abandoning module MovieSceneTools (364)
+[2017.09.02-15.37.11:112][455]LogModuleManager: Shutting down and abandoning module OutputLog (362)
+[2017.09.02-15.37.11:112][455]LogModuleManager: Shutting down and abandoning module GammaUI (360)
+[2017.09.02-15.37.11:112][455]LogModuleManager: Shutting down and abandoning module Documentation (358)
+[2017.09.02-15.37.11:113][455]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (356)
+[2017.09.02-15.37.11:113][455]LogModuleManager: Shutting down and abandoning module MovieScene (354)
+[2017.09.02-15.37.11:113][455]LogModuleManager: Shutting down and abandoning module Niagara (352)
+[2017.09.02-15.37.11:113][455]LogModuleManager: Shutting down and abandoning module NiagaraEditor (351)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (348)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module AnalyticsET (346)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module PortalServices (344)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module PortalRpc (342)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module MessagingRpc (340)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module AIModule (338)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module GameplayDebugger (337)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module AITestSuite (335)
+[2017.09.02-15.37.11:114][455]LogModuleManager: Shutting down and abandoning module ProfilerService (332)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module TaskGraph (330)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module SteamVRController (328)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module SteamVR (326)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (324)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (322)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module OculusLibrary (320)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module OculusInput (318)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (316)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (314)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module CableComponent (312)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (310)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module AndroidPermission (308)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (304)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module HTML5Networking (302)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module AlembicImporter (300)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module AlembicLibrary (299)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module GeometryCache (298)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (297)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module SuperSearchEditor (292)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module SuperSearch (291)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (288)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module PluginBrowser (286)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (284)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (282)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module DesktopPlatform (281)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module UObjectPlugin (278)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (276)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (274)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module GitSourceControl (272)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module SourceControl (271)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (268)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (266)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (264)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module Paper2DEditor (262)
+[2017.09.02-15.37.11:298][455]LogModuleManager: Shutting down and abandoning module MeshPaint (261)
+[2017.09.02-15.37.11:299][455]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module MainFrame (256)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module HotReload (255)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (250)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module PhysXVehicles (248)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (246)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (244)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (242)
+[2017.09.02-15.37.11:300][455]LogModuleManager: Shutting down and abandoning module UdpMessaging (240)
+[2017.09.02-15.37.11:401][455]LogModuleManager: Shutting down and abandoning module TcpMessaging (238)
+[2017.09.02-15.37.11:501][455]LogModuleManager: Shutting down and abandoning module CarSim (236)
+[2017.09.02-15.37.11:501][455]LogCarSim: CarSim module shutting down...
+[2017.09.02-15.37.11:501][455]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (234)
+[2017.09.02-15.37.11:501][455]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (232)
+[2017.09.02-15.37.11:501][455]LogModuleManager: Shutting down and abandoning module FacialAnimation (230)
+[2017.09.02-15.37.11:501][455]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (228)
+[2017.09.02-15.37.11:501][455]LogModuleManager: Shutting down and abandoning module GraphEditor (227)
+[2017.09.02-15.37.11:501][455]LogModuleManager: Shutting down and abandoning module ContentBrowser (225)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (222)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module Paper2D (220)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (218)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module WmfMedia (216)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (214)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (212)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module MediaAssets (210)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module GameLiveStreaming (208)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module VREditor (206)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module StringTableEditor (204)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (202)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (200)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module FunctionalTesting (198)
+[2017.09.02-15.37.11:503][455]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (196)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module UMG (194)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module UMGEditor (193)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module Sequencer (192)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module AssetTools (190)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module MessageLog (189)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (188)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module SlateReflector (182)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module Slate (180)
+[2017.09.02-15.37.11:504][455]LogModuleManager: Shutting down and abandoning module EditorStyle (178)
+[2017.09.02-15.37.11:506][455]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (176)
+[2017.09.02-15.37.11:506][455]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (174)
+[2017.09.02-15.37.11:506][455]LogModuleManager: Shutting down and abandoning module XAudio2 (172)
+[2017.09.02-15.37.11:506][455]LogModuleManager: Shutting down and abandoning module Networking (170)
+[2017.09.02-15.37.11:506][455]LogModuleManager: Shutting down and abandoning module Core (166)
+[2017.09.02-15.37.11:506][455]LogModuleManager: Shutting down and abandoning module AssetRegistry (164)
+[2017.09.02-15.37.11:662][455]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2017.09.02-15.37.11:662][455]LogDirectoryWatcher: A directory notification for '../../../../../Unreal Engine 4/Games/VivaLaVidaGame/Content/' was aborted.
+[2017.09.02-15.37.11:662][455]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/2D/Paper2D/Content/' was aborted.
+[2017.09.02-15.37.11:663][455]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/Runtime/GearVR/Content/' was aborted.
+[2017.09.02-15.37.11:668][455]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (163)
+[2017.09.02-15.37.11:674][455]LogModuleManager: Shutting down and abandoning module KismetCompiler (160)
+[2017.09.02-15.37.11:674][455]LogModuleManager: Shutting down and abandoning module LevelSequence (158)
+[2017.09.02-15.37.11:674][455]LogModuleManager: Shutting down and abandoning module PhysXFormats (156)
+[2017.09.02-15.37.11:674][455]LogModuleManager: Shutting down and abandoning module MeshUtilities (154)
+[2017.09.02-15.37.11:674][455]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (153)
+[2017.09.02-15.37.11:674][455]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (151)
+[2017.09.02-15.37.11:674][455]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (149)
+[2017.09.02-15.37.11:674][455]LogModuleManager: Shutting down and abandoning module DerivedDataCache (146)
+[2017.09.02-15.37.11:725][455]LogDerivedDataCache: Shutdown
+[2017.09.02-15.37.11:725][455]LogModuleManager: Shutting down and abandoning module TargetPlatform (144)
+[2017.09.02-15.37.11:725][455]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (143)
+[2017.09.02-15.37.11:725][455]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (141)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (139)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (137)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (135)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (133)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (131)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (129)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (127)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (125)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module ImageWrapper (124)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (121)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (119)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (117)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (115)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (113)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (111)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (109)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (107)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (105)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Messaging (103)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (101)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (99)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (97)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (95)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (93)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (91)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (89)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (87)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (85)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (83)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (81)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (79)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (77)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (75)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (73)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (71)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (69)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (67)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (65)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module InputCore (62)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module Settings (60)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module OculusRift (58)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module GearVRController (56)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module GearVR (54)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (52)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (50)
+[2017.09.02-15.37.11:726][455]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (46)
+[2017.09.02-15.37.11:726][455]LogOnline:Display: Unloading online subsystem: NULL
+[2017.09.02-15.37.11:727][455]LogModuleManager: Shutting down and abandoning module XMPP (45)
+[2017.09.02-15.37.11:727][455]LogModuleManager: Shutting down and abandoning module HTTP (43)
+[2017.09.02-15.37.11:727][455]LogHttp:Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2017.09.02-15.37.11:727][455]LogHttp:Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B211E542B-48EB-88E5-CD29-C3BF39E23A11%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.16.3-3561208%2B%2B%2BUE4%2BRelease-4.16&UserID=162d3ee140344b9cd354cb91c629ff57%7C4a14eb4f086c4915b159d8240491d5f6%7C9a2884e8-f97a-42a8-a349-42410aa4a0e4&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2017.09.02-15.37.11:757][455]LogModuleManager: Shutting down and abandoning module SSL (42)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module HTTPChunkInstaller (38)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module MobileUtils (36)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module AnimationModifiers (34)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module PropertyEditor (33)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module AudioEditor (30)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module TextureCompressor (28)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module ShaderCore (26)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module Landscape (24)
+[2017.09.02-15.37.11:762][455]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (22)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module OpenGLDrv (20)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module D3D11RHI (18)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (16)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module Renderer (14)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module Engine (12)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module CoreUObject (10)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2017.09.02-15.37.11:778][455]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2017.09.02-15.37.11:779][455]LogExit: Exiting.
+[2017.09.02-15.37.11:800][455]Log file closed, 09/02/17 17:37:11
